@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Will be used for the IBM Data Science Professional Certificate Capstone Project course offered on Coursera.
+This repository will be used for housing projects and assignments for the Applied Data Science Capstone course on Coursera. This is the final course in the IBM Data Science Professional Certificate series.
