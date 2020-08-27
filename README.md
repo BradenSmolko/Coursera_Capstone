@@ -3,4 +3,4 @@ This repository will be used for housing projects and assignments for the Applie
 
 ** Some notebooks may look better rendered if you paste the notebook link in https://nbviewer.jupyter.org/ **
 
-** Specifically when there are maps created with folium package **
+** Specifically when there are maps created with the folium package **
